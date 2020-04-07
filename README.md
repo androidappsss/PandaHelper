@@ -19,6 +19,7 @@ A TUI Tool for interacting with server environments and it's bots or automation 
 # Dependencies
 -Bash
 -Dialog
+## [Panda Helper](https://aapks.com/apk/panda-helper/)
 
 
 # License
